@@ -1,0 +1,15 @@
+{
+  "name": "chatpix",
+  "version": "1.0.0",
+  "description": "messaging app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Nitin Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
